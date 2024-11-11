@@ -7,6 +7,7 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {  
     Widget buildBody() {
+      //added comment
       return SingleChildScrollView(
         child: Column(
           children: [
